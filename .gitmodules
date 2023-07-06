@@ -13,3 +13,6 @@
 [submodule "awesome"]
 	path = awesome
 	url = git@github.com:kumkee/awesome_conf.git
+[submodule "ssh"]
+	path = ssh
+	url = git@github.com:kumkee/.ssh.git
