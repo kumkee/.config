@@ -1,3 +1,6 @@
 [submodule "nvim/lua/custom"]
 	path = nvim/lua/custom
 	url = git@github.com:kumkee/nvchad_config.git
+[submodule "zshrc"]
+	path = zshrc
+	url = git@github.com:kumkee/zshrc.git
