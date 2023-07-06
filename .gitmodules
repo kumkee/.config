@@ -4,3 +4,6 @@
 [submodule "zshrc"]
 	path = zshrc
 	url = git@github.com:kumkee/zshrc.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:kumkee/tmux_config.git
