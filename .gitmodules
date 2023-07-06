@@ -10,3 +10,6 @@
 [submodule "completion"]
 	path = completion
 	url = git@github.com:kumkee/.completion.git
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:kumkee/awesome_conf.git
