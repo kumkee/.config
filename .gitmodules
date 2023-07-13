@@ -22,3 +22,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:NvChad/NvChad.git
+[submodule "nvim_custom"]
+	path = nvim_custom
+	url = git@github.com:kumkee/nvchad_config.git
