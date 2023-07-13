@@ -19,3 +19,6 @@
 [submodule "home-manager"]
 	path = home-manager
 	url = git@github.com:kumkee/home-manager_conf.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:NvChad/NvChad.git
