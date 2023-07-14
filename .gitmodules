@@ -14,7 +14,7 @@
 	path = xfce4
 	url = git@github.com:kumkee/xfce4-terminal_config.git
 [submodule "home-manager"]
-	path = nixpkgs
+	path = home-manager
 	url = git@github.com:kumkee/home-manager_conf.git
 [submodule "nvim"]
 	path = nvim
