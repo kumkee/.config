@@ -1,3 +1,4 @@
-ln -s $PWD/gitconfig/.gitconfig ~/
 ln -s $PWD/home-manager/profile ~/.profile
+rm -ivrf $PWD/nvim/lua/custom
 ln -s $PWD/nvim_custom $PWD/nvim/lua/custom
+ln -s $PWS/nvim_custom/configs/ftplugin $PWD/nvim/.
