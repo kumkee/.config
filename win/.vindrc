@@ -1,0 +1,4 @@
+nmap <Esc-h> <to_gui_normal>
+nmap <Esc-l> <to_edi_normal>
+nmap <Esc-j> <to_resident>
+nmap <Esc-k> <to_insert>
