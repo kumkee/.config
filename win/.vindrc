@@ -3,5 +3,10 @@ nmap <Esc-h> <to_gui_normal>
 nmap <Esc-l> <to_edi_normal>
 nmap <Esc-j> <to_resident>
 nmap <Esc-k> <to_insert>
+imap <Esc-h> <to_gui_normal>
+imap <Esc-l> <to_edi_normal>
+imap <Esc-j> <to_resident>
+imap <Esc-k> <to_insert>
 
-set cursor_accel 30
+
+set cursor_accel=10
