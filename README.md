@@ -1,3 +1,8 @@
-# .config
+# `.config`
 
-Some of my config files
+Some of `.config/` files.
+
+# Preparation
+
+In Debian, update `apt` and install `xz-utils`, `systemd-timesyncd`, `zsh`,
+`curl`.
