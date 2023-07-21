@@ -1,6 +1,6 @@
-# /home/liang/.config/tmuxinator/ss.yml
+# /home/liang/.config/tmuxinator/ss-nep.yml
 
-name: ss
+name: ss-nep
 root: ~/
 
 # Optional tmux socket
@@ -45,11 +45,11 @@ root: ~/
 # attach: false
 
 windows:
-  - editor:
+  - servers:
       layout: main-vertical
       # Synchronize all panes of this window, can be enabled before or after the pane commands run.
       # 'before' represents legacy functionality and will be deprecated in a future release, in favour of 'after'
       # synchronize: after
       panes:
-        - ss-earth
+        - ss-nep
         - proxychains4-daemon
