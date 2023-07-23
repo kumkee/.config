@@ -46,5 +46,5 @@ root: ~/workdir/twauto/
 
 windows:
   - vi: vi -S
-  - httpd: cd ./dist; http-server
+  - httpd: PORT=8080 elm-land server
   - git: git status
