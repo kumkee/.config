@@ -1,6 +1,3 @@
-[submodule "zshrc"]
-	path = zshrc
-	url = git@github.com:kumkee/zshrc.git
 [submodule "completion"]
 	path = completion
 	url = git@github.com:kumkee/.completion.git
