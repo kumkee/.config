@@ -12,8 +12,8 @@ which is the centre of the whole configuration.
 
 ### `home-manager`
 
-The centre of all configuration looking after dot-file soft links, `zshrc` and
-package management.
+This is the brain of all configuration, looking after dot-file soft links,
+`zshrc` and package management.
 
 ### `completion`
 
