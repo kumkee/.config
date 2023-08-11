@@ -28,7 +28,6 @@ root: ~/workdir/twauto/
 
 # Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
-pre_window: export PORT=8080
 
 # Pass command line options to tmux. Useful for specifying a different tmux.conf.
 # tmux_options: -f ~/.tmux.mac.conf
@@ -47,13 +46,15 @@ pre_window: export PORT=8080
 
 windows:
   - nvim: vi -S
-  - httpd: elm-land server
+  - httpd:
+      - export PORT=8080
+      - elm-land server
   - git: git status
-  - viBE:
+  - viApi:
       root: ~/workdir/twauto-backend/
       panes:
         - vi -S
-  - gitBE:
+  - gitApi:
       root: ~/workdir/twauto-backend/
       panes:
         - git status
