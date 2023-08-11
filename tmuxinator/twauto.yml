@@ -48,12 +48,12 @@ pre_window: export BEPATH=~/workdir/twauto-backend/
 windows:
   - vim: vi -S
   - httpd:
-    - export PORT=8080
-    - elm-land server
+      - export PORT=8080
+      - elm-land server
   - git: git status
   - vimApi:
-    - cd $BEPATH
-    - vi -S
+      - cd $BEPATH
+      - vi -S
   - gitApi:
-    - cd $BEPATH
-    - git status
+      - cd $BEPATH
+      - git status
