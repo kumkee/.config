@@ -49,3 +49,11 @@ windows:
   - nvim: vi -S
   - httpd: elm-land server
   - git: git status
+  - viBE:
+      root: ~/workdir/twauto-backend/
+      panes:
+        - vi -S
+  - gitBE:
+      root: ~/workdir/twauto-backend/
+      panes:
+        - git status
