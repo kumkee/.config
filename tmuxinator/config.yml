@@ -1,13 +1,13 @@
 # /home/liang/.config/tmuxinator/config.yml
-
+---
 name: config
 root: ~/.config/
 
 # Optional tmux socket
 # socket_name: foo
 
-# Note that the pre and post options have been deprecated and will be replaced by
-# project hooks.
+# Note that the pre and post options have been deprecated and will be replaced
+# by project hooks.
 
 # Project hooks
 
@@ -26,24 +26,31 @@ root: ~/.config/
 # Run on project stop
 # on_project_stop: command
 
-# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+# Runs in each window and pane before window/pane specific commands. Useful
+# for setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
 
-# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# Pass command line options to tmux. Useful for specifying a different
+# tmux.conf.
 # tmux_options: -f ~/.tmux.mac.conf
 
-# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# Change the command to call tmux.  This can be used by derivatives/wrappers
+# like byobu.
 # tmux_command: byobu
 
-# Specifies (by name or index) which window will be selected on project startup. If not set, the first window is used.
+# Specifies (by name or index) which window will be selected on project startup.
+# If not set, the first window is used.
 # startup_window: editor
 
-# Specifies (by index) which pane of the specified window will be selected on project startup. If not set, the first pane is used.
+# Specifies (by index) which pane of the specified window will be selected on
+# project startup. If not set, the first pane is used.
 # startup_pane: 1
 
-# Controls whether the tmux session should be attached to automatically. Defaults to true.
+# Controls whether the tmux session should be attached to automatically.
+# Defaults to true.
 # attach: false
 
 windows:
   - nvim: vi
   - git: git status
+  - sub: echo 'cd into a submodule'
