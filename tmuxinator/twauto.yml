@@ -30,7 +30,7 @@ root: ~/workdir/twauto/
 # Runs in each window and pane before window/pane specific commands. Useful for
 # setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
-pre_window: export BEPATH=~/workdir/twauto-backend/
+pre_window: export BEPATH=~/workdir/twauto-backend
 
 # Pass command line options to tmux. Useful for specifying a different
 # tmux.conf.
@@ -64,3 +64,6 @@ windows:
   - gitApi:
       - cd $BEPATH
       - git status
+  - func:
+      - cd $BEPATH/src
+      - func start --debug
