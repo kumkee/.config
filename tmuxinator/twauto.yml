@@ -67,3 +67,8 @@ windows:
   - func:
       - cd $BEPATH/src
       - func start --debug
+  - fsiVim:
+      - cd ~/workdir/ical
+      - vi
+  - fsi:
+      - cd ~/workdir/ical
