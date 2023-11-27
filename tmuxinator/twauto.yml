@@ -1,6 +1,5 @@
 # /home/liang/.config/tmuxinator/twauto.yml
 ---
-
 name: twauto
 root: ~/workdir/twauto/
 
@@ -30,7 +29,7 @@ root: ~/workdir/twauto/
 # Runs in each window and pane before window/pane specific commands. Useful for
 # setting up interpreter versions.
 # pre_window: rbenv shell 2.0.0-p247
-pre_window: export BEPATH=~/workdir/twauto-backend
+pre_window: export BEPATH=~/workdir/twauto-backend && export LABPATH=~/workdir/twauto-lab
 
 # Pass command line options to tmux. Useful for specifying a different
 # tmux.conf.
@@ -67,3 +66,9 @@ windows:
   - func:
       - cd $BEPATH/src
       - func start --debug
+  - labVim:
+      - cd $LABPATH
+      - vi -S
+  - lab:
+      - cd $LABPATH
+      - git status
