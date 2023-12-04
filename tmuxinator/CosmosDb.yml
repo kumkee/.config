@@ -1,7 +1,7 @@
 # /home/liang/.config/tmuxinator/twauto.yml
 ---
 name: CosmosDb
-root: ~/workdir/FSharp.CosmosDb/src/FSharp.CosmosDb/
+root: ~/workdir/FSharp.CosmosDb/
 
 # Optional tmux socket
 # socket_name: foo
