@@ -22,3 +22,6 @@
 [submodule "secrets"]
 	path = secrets
 	url = git@github.com:kumkee/secrets.git
+[submodule "nixos-wsl"]
+	path = nixos-wsl
+	url = git@github.com:kumkee/nixos-wsl.git
