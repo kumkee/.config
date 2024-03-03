@@ -25,3 +25,6 @@
 [submodule "nixos-wsl"]
 	path = nixos-wsl
 	url = git@github.com:kumkee/nixos-wsl.git
+[submodule "nix-autobahn"]
+	path = nix-autobahn
+	url = https://github.com/Lassulus/nix-autobahn
