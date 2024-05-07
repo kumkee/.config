@@ -1,3 +1,4 @@
 environment.d
 git/
 tmux
+ghci_history
