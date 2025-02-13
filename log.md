@@ -4,3 +4,4 @@ Error message:
 tsserver is deprecated, use ts_ls instead.
 Feature will be removed in lspconfig 0.2.1
 ```
+`tsserver` is a local server in `Mason`.
