@@ -1,3 +1,7 @@
+Mon Feb 24 09:15:15 PM NZDT 2025
+Two upgrade options for `NvChad`:
+1. Follow migration notes below
+2. Brand-new installation and config migration after
 
 Wed Feb 19 06:15:03 AM NZDT 2025
 `NvChad` migration notes in [Release Note](https://nvchad.com/news/v2.5_release/)
