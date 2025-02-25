@@ -1,3 +1,11 @@
+Wed Feb 26 07:09:59 AM NZDT 2025
+Brand-new install: 
+1. submodule rename: `nvim` → `nvchad2.0`; `nvim_custom` → `nvchad2.0_config`
+1. new submodule: `nvim` from my own clone of https://github.com/NvChad/starter
+1. migrate old config from `nvchad2.0_config` to `starter`
+1. update soft links in `home.nix`
+1. `home-manager switch`
+
 Mon Feb 24 09:15:15 PM NZDT 2025
 Two upgrade options for `NvChad`:
 1. Follow migration notes below
