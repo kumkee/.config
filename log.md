@@ -1,5 +1,10 @@
+Thu Feb 27 06:49:32 AM NZDT 2025
+1. `nvim`: `git@github.com:NvChad/NvChad.git` → `git@github.com:kumkee/starter.git`
+in `.gitmodules`.
+1. Commands: `git submodule sync`; `rm nvim -rf`; `git submodule update --init`
+
 Wed Feb 26 07:09:59 AM NZDT 2025
-Brand-new install: 
+Brand-new installation plan: 
 1. submodule rename: `nvim` → `nvchad2.0`; `nvim_custom` → `nvchad2.0_config`
 1. new submodule: `nvim` from my own clone of https://github.com/NvChad/starter
 1. migrate old config from `nvchad2.0_config` to `starter`
