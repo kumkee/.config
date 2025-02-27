@@ -15,7 +15,8 @@
 	url = git@github.com:kumkee/home-manager_conf.git
 [submodule "nvim"]
 	path = nvim
-	url = git@github.com:kumkee/starter.git
+	url = git@github.com:NvChad/NvChad.git
+	branch = v2.0
 [submodule "nvim_custom"]
 	path = nvim_custom
 	url = git@github.com:kumkee/nvchad_config.git
