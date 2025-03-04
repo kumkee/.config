@@ -1,3 +1,13 @@
+
+Wed Mar  5 06:40:16 AM NZDT 2025
+```
+          2025-03-05 06:37:35[ERROR] Formatter 'stylua' error: Could not start dynamically linked executable: /home/liang/.local/share/nvim/mason/bin/stylua
+          NixOS cannot run dynamically linked executables intended for generic
+          linux environments out of the box. For more information, see:
+          https://nix.dev/permalink/stub-ld
+
+```
+
 Thu Feb 27 06:49:32 AM NZDT 2025
 1. `nvim`: `git@github.com:NvChad/NvChad.git` → `git@github.com:kumkee/starter.git`
 in `.gitmodules`.
