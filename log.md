@@ -1,3 +1,6 @@
+Thu Mar  6 07:20:41 AM NZDT 2025
+The previous error is fixed by removing `stylua`. To-do: figure out where to
+configure default Mason packages.
 
 Wed Mar  5 06:40:16 AM NZDT 2025
 ```
