@@ -1,3 +1,6 @@
+Tue Mar 11 06:57:01 AM NZDT 2025
+Added `lsp` servers; `Mason` skip list to be updated.
+
 Thu Mar  6 07:20:41 AM NZDT 2025
 The previous error is fixed by removing `stylua`. To-do: figure out where to
 configure default Mason packages.
