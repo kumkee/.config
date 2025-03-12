@@ -1,3 +1,6 @@
+Thu Mar 13 07:15:26 AM NZDT 2025
+When `space` + `/` in `F#`, it complains `Option 'commentstring' is empty`.
+
 Tue Mar 11 06:57:01 AM NZDT 2025
 Added `lsp` servers; `Mason` skip list to be updated.
 
