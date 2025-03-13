@@ -1,3 +1,7 @@
+Fri Mar 14 07:09:40 AM NZDT 2025
+`commentstring` problem persists. Added `treesitter` ensure-installs and plugin
+`ionide`.
+
 Thu Mar 13 07:15:26 AM NZDT 2025
 When `space` + `/` in `F#`, it complains `Option 'commentstring' is empty`.
 
