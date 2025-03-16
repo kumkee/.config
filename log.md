@@ -1,3 +1,6 @@
+Mon Mar 17 07:12:20 AM NZDT 2025
+Research on the `commentstring` problem: ()[https://github.com/LazyVim/LazyVim/discussions/654]; ()[https://github.com/neovim/neovim/issues/31178]
+
 Fri Mar 14 07:09:40 AM NZDT 2025
 `commentstring` problem persists. Added `treesitter` ensure-installs and plugin
 `ionide`.
