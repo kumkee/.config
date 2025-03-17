@@ -1,3 +1,6 @@
+Tue Mar 18 07:35:08 AM NZDT 2025
+Solved `commentstring` problem by adding `ftplugin` folder.
+
 Mon Mar 17 07:12:20 AM NZDT 2025
 Research on the `commentstring` problem: ()[https://github.com/LazyVim/LazyVim/discussions/654]; ()[https://github.com/neovim/neovim/issues/31178]
 
