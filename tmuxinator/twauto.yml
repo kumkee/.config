@@ -66,7 +66,6 @@ windows:
       - git status
   - func:
       - cd $BEPATH/src
-      - rm bin obj -rf
       - func start --debug
   - labVim:
       - cd $LABPATH
