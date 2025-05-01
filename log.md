@@ -1,3 +1,6 @@
+Fri May 02 06:58:56 AM NZST 2025
+A new branch of home-manager for a mini WSL repo on the work PC.
+
 Tue Mar 18 07:35:08 AM NZDT 2025
 Solved `commentstring` problem by adding `ftplugin` folder.
 
