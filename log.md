@@ -1,3 +1,6 @@
+Mon May 05 06:57:29 AM NZST 2025
+Mini WSL repo named `mini` in config
+
 Fri May 02 06:58:56 AM NZST 2025
 A new branch of home-manager for a mini WSL repo on the work PC.
 
@@ -17,11 +20,11 @@ When `space` + `/` in `F#`, it complains `Option 'commentstring' is empty`.
 Tue Mar 11 06:57:01 AM NZDT 2025
 Added `lsp` servers; `Mason` skip list to be updated.
 
-Thu Mar  6 07:20:41 AM NZDT 2025
+Thu Mar 06 07:20:41 AM NZDT 2025
 The previous error is fixed by removing `stylua`. To-do: figure out where to
 configure default Mason packages.
 
-Wed Mar  5 06:40:16 AM NZDT 2025
+Wed Mar 05 06:40:16 AM NZDT 2025
 ```
           2025-03-05 06:37:35[ERROR] Formatter 'stylua' error: Could not start dynamically linked executable: /home/liang/.local/share/nvim/mason/bin/stylua
           NixOS cannot run dynamically linked executables intended for generic
