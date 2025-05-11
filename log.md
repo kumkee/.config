@@ -1,3 +1,6 @@
+Mon May 12 07:06:58 AM NZST 2025
+Encountered problems following the KVM:`virt-install` official tutorial from home-assistant
+
 Sun May 11 08:22:16 PM NZST 2025
 Installed KVM according to Debian's tutorial - for home-assistant
 
