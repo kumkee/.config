@@ -1,3 +1,6 @@
+Sun May 11 08:22:16 PM NZST 2025
+Installed KVM according to Debian's tutorial - for home-assistant
+
 Tue May 06 07:09:10 AM NZST 2025
 Created mini branch for completion
 
