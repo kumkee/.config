@@ -1,6 +1,9 @@
+Tue May 13 07:03:40 AM NZST 2025
+Given up KVM for home-assistant. Moving onto [Supervisor](https://github.com/home-assistant/supervised-installer)
+
 Mon May 12 07:06:58 AM NZST 2025
 Encountered problems following the KVM:`virt-install` official tutorial
-from home-assistant. Will try (this one)[https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941]
+from home-assistant. Will try [this one](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941)
 
 Sun May 11 08:22:16 PM NZST 2025
 Installed KVM according to Debian's tutorial - for home-assistant
@@ -18,7 +21,7 @@ Tue Mar 18 07:35:08 AM NZDT 2025
 Solved `commentstring` problem by adding `ftplugin` folder.
 
 Mon Mar 17 07:12:20 AM NZDT 2025
-Research on the `commentstring` problem: ()[https://github.com/LazyVim/LazyVim/discussions/654]; ()[https://github.com/neovim/neovim/issues/31178]
+Research on the `commentstring` problem: [](https://github.com/LazyVim/LazyVim/discussions/654); [](https://github.com/neovim/neovim/issues/31178)
 
 Fri Mar 14 07:09:40 AM NZDT 2025
 `commentstring` problem persists. Added `treesitter` ensure-installs and plugin
