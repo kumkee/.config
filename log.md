@@ -1,5 +1,9 @@
+Wed May 14 06:15:05 AM NZST 2025 
+Failed to enable 'Network-Manager' on RapsberryPi02W, which is required by
+Supervised home-assistant OS.
+
 Tue May 13 07:03:40 AM NZST 2025
-Given up KVM for home-assistant. Moving onto [Supervisor](https://github.com/home-assistant/supervised-installer) - to be attempted on RP02W
+Given up KVM for home-assistant. Moving onto [Supervisor](https://github.com/home-assistant/supervised-installer) - to be attempted on RapsberryPi02W
 
 Mon May 12 07:06:58 AM NZST 2025
 Encountered problems following the KVM:`virt-install` official tutorial
