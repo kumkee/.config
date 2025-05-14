@@ -1,3 +1,6 @@
+Thu May 15 06:52:07 AM NZST 2025
+Striped-down NixOS failed to import in WSL. To start from new.
+
 Wed May 14 06:15:05 AM NZST 2025 
 Failed to enable 'Network-Manager' on RapsberryPi02W, which is required by
 Supervised home-assistant OS.
