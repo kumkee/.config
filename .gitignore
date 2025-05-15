@@ -3,3 +3,4 @@ git/
 tmux
 ghci_history
 .wrangler/
+systemd/
