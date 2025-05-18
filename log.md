@@ -1,3 +1,7 @@
+Sun May 18 08:07:53 PM NZST 2025
+Supervised home-assistant installation failed on `rock`. It had to downgrade
+from `sid` to `bookworm`
+
 Thu May 15 06:52:07 AM NZST 2025
 Striped-down NixOS failed to import in WSL. To start from new.
 
