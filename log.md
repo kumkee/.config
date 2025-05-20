@@ -1,3 +1,6 @@
+Tue May 20 04:50:27 PM NZST 2025
+New system for Neptune considered
+
 Mon May 19 01:37:27 PM NZST 2025
 To reinstall the system on `rock` with [Debian system downgrade](https://wiki.debian.org/SystemDowngrade), [`rock 5b backup`](https://docs.radxa.com/en/rock5/rock5b/radxa-os/backup) and [Installing `rock5b` system to NVME](https://docs.radxa.com/en/rock5/rock5b/getting-started/install-os/nvme).
 
