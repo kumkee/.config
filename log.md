@@ -1,3 +1,6 @@
+Mon May 26 07:09:37 AM NZST 2025
+Added `elixir` dev environments, including [`elixir_auto_complete`](https://github.com/bjhaid/elixir_auto_complete).
+
 Tue May 20 04:50:27 PM NZST 2025
 New system for Neptune considered
 
