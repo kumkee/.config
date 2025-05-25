@@ -1,8 +1,44 @@
+Tue May 20 04:50:27 PM NZST 2025
+New system for Neptune considered
+
+Mon May 19 01:37:27 PM NZST 2025
+To reinstall the system on `rock` with [Debian system downgrade](https://wiki.debian.org/SystemDowngrade), [`rock 5b backup`](https://docs.radxa.com/en/rock5/rock5b/radxa-os/backup) and [Installing `rock5b` system to NVME](https://docs.radxa.com/en/rock5/rock5b/getting-started/install-os/nvme).
+
+Sun May 18 08:07:53 PM NZST 2025
+Supervised home-assistant installation failed on `rock`. It had to downgrade
+from `sid` to `bookworm`
+
+Thu May 15 06:52:07 AM NZST 2025
+Striped-down NixOS failed to import in WSL. To start from new.
+
+Wed May 14 06:15:05 AM NZST 2025 
+Failed to enable 'Network-Manager' on RapsberryPi02W, which is required by
+Supervised home-assistant OS.
+
+Tue May 13 07:03:40 AM NZST 2025
+Given up KVM for home-assistant. Moving onto [Supervisor](https://github.com/home-assistant/supervised-installer) - to be attempted on RapsberryPi02W
+
+Mon May 12 07:06:58 AM NZST 2025
+Encountered problems following the KVM:`virt-install` official tutorial
+from home-assistant. Will try [this one](https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941)
+
+Sun May 11 08:22:16 PM NZST 2025
+Installed KVM according to Debian's tutorial - for home-assistant
+
+Tue May 06 07:09:10 AM NZST 2025
+Created mini branch for completion
+
+Mon May 05 06:57:29 AM NZST 2025
+Mini WSL repo named `mini` in config
+
+Fri May 02 06:58:56 AM NZST 2025
+A new branch of home-manager for a mini WSL repo on the work PC.
+
 Tue Mar 18 07:35:08 AM NZDT 2025
 Solved `commentstring` problem by adding `ftplugin` folder.
 
 Mon Mar 17 07:12:20 AM NZDT 2025
-Research on the `commentstring` problem: ()[https://github.com/LazyVim/LazyVim/discussions/654]; ()[https://github.com/neovim/neovim/issues/31178]
+Research on the `commentstring` problem: [](https://github.com/LazyVim/LazyVim/discussions/654); [](https://github.com/neovim/neovim/issues/31178)
 
 Fri Mar 14 07:09:40 AM NZDT 2025
 `commentstring` problem persists. Added `treesitter` ensure-installs and plugin
@@ -14,11 +50,11 @@ When `space` + `/` in `F#`, it complains `Option 'commentstring' is empty`.
 Tue Mar 11 06:57:01 AM NZDT 2025
 Added `lsp` servers; `Mason` skip list to be updated.
 
-Thu Mar  6 07:20:41 AM NZDT 2025
+Thu Mar 06 07:20:41 AM NZDT 2025
 The previous error is fixed by removing `stylua`. To-do: figure out where to
 configure default Mason packages.
 
-Wed Mar  5 06:40:16 AM NZDT 2025
+Wed Mar 05 06:40:16 AM NZDT 2025
 ```
           2025-03-05 06:37:35[ERROR] Formatter 'stylua' error: Could not start dynamically linked executable: /home/liang/.local/share/nvim/mason/bin/stylua
           NixOS cannot run dynamically linked executables intended for generic
