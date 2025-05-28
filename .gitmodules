@@ -17,7 +17,7 @@
 	path = nvim
 	url = git@github.com:kumkee/starter.git
 [submodule "nvim_custom"]
-	path = nvim_custom
+	path = nvim_old
 	url = git@github.com:kumkee/nvchad_config.git
 [submodule "secrets"]
 	path = secrets
