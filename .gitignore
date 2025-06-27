@@ -4,3 +4,4 @@ tmux
 ghci_history
 .wrangler/
 systemd/
+direnv/
