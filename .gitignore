@@ -5,3 +5,5 @@ ghci_history
 .wrangler/
 systemd/
 direnv/
+github-copilot/
+Session.vim
