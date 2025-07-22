@@ -45,6 +45,6 @@ root: ~/workdir/phoetorial/
 # attach: false
 
 windows:
-  - vim: vi
+  - editor: vi
   - sqld: postgres -h '' -k $PGHOST # -h '' disables network to run on domain socket only, -k points to socket file directory
   - phd: mix phx.server
