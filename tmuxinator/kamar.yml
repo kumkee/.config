@@ -45,13 +45,11 @@ root: ~/workdir/kamar/
 # attach: false
 
 windows:
-  - editor:
-      layout: main-vertical
+  - edterm:
+      layout: e182,188x51,0,0{121x51,0,0,5,66x51,122,0,8}
       # Synchronize all panes of this window, can be enabled before or after the pane commands run.
       # 'before' represents legacy functionality and will be deprecated in a future release, in favour of 'after'
       # synchronize: after
       panes:
         - vim
-        - guard
-  - server: bundle exec rails s
-  - logs: tail -f log/development.log
+        - git status
