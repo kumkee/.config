@@ -1,6 +1,6 @@
 # /home/liang/.config/tmuxinator/phoetorial.yml
 
-name: phoetorial
+name: phxtu
 root: ~/workdir/phoetorial/
 
 # Optional tmux socket
@@ -45,6 +45,6 @@ root: ~/workdir/phoetorial/
 # attach: false
 
 windows:
-  - editor: vi
-  - sqld: postgres -h '' -k $PGHOST # -h '' disables network to run on domain socket only, -k points to socket file directory
-  - phd: mix phx.server
+  - ed:
+  # - sqld: postgres -h '' -k $PGHOST # -h '' disables network to run on domain socket only, -k points to socket file directory
+  # - phd: mix phx.server
