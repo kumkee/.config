@@ -8,3 +8,4 @@ direnv/
 github-copilot/
 Session.vim
 swi-prolog/
+nix/
